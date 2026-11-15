@@ -23,3 +23,5 @@ venv/
 # IDE files
 .vscode/
 .idea/
+.streamlit/secrets.toml
+frontend/.streamlit/secrets.toml
